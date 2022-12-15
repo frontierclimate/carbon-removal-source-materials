@@ -5,7 +5,7 @@ These materials form the basis of carbon removal purchases under the [Frontier](
 In the root of the repo, you'll find:
 
 - Our [project applications](./Project%20Applications/), most recently from the fall 2022 cycle. We are grateful to the projects for participating in this process, and agreeing to have their applications made public.
-- Our [template project application](./TEMPLATE%20Project%20Application/2022), including modular supplements for Direct Air Capture, Surface Mineralization, Biomass, Oceans, Geologic Injection, and CO2 Utilization.
+- Our [template project application](./TEMPLATE%20Project%20Application), including modular supplements for Direct Air Capture, Surface Mineralization, Biomass, Oceans, Geologic Injection, and CO2 Utilization.
      - This template application was developed in collaboration with [CarbonPlan](https://carbonplan.org). They are hosting an unbranded version of the application content in markdown format [on GitHub](https://github.com/carbonplan/carbon-removal-application). Please consider using it!
 - The [template review forms](./TEMPLATE%20Review%20Forms) that our science and governance reviewers use to provide feedback against Frontier's purchase criteria.
 - Our [purchase agreements](./Purchase%20Agreements). These are the actual contracts, including funding terms for purchase and R&D, technical milestones, renewal criteria, and more.
